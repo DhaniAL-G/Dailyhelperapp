@@ -1,1 +1,1 @@
-Still WIP, I'l make the PWA too for this app
+Still WIP, I'l make the PWA too for this apps
